@@ -46,7 +46,7 @@ const AboutUs = () => (
           </p>
           <div className="space-y-4">
             {[
-              "Prizes and Goodies worth INR 20,000",
+              "Prize pool of ₹1 Lakh+",
               "Mentorship from industry leaders",
               "Exclusive networking opportunities",
               "Direct access to investors",
